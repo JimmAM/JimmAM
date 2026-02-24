@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Jimm Aragon Mosqueda 👋
 
-<!--
-**JimmAM/JimmAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Chemical Biotechnologist | Data Analyst | Pharmaceutical & Clinical Research Focus**
 
-Here are some ideas to get you started:
+I combine a rigorous scientific background with data analytics to optimize processes, manage scientific data, and generate actionable insights for the pharmaceutical industry.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 Background & Focus
+* 🧪 **Experience:** Currently working as a Water Sampling Technician, ensuring strict adherence to quality and laboratory protocols. Graduate of an intensive Data Analytics Bootcamp.
+* 📊 **Goal:** Applying data processing, statistical analysis, and visualization within clinical research and pharmaceutical settings.
+* 💡 **Currently Learning:** Expanding my data management toolkit by mastering **R** for scientific data and sharpening my **Python (pandas)** skills for robust data manipulation.
+
+### 🛠️ Tech Stack
+* **Languages & Libraries:** Python (pandas), R, SQL
+* **Data Visualization:** Power BI
+* **Tools:** Excel, Git, GitHub
+
+### 🚀 Featured Projects
+*(Coming soon: Data analysis and dashboards tailored for pharma)*
+
+---
+📫 **Connect with me:**www.linkedin.com/in/jimm-aragon-mosqueda## Hi there 👋
