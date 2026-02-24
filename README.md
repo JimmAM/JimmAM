@@ -18,5 +18,5 @@ I combine a rigorous scientific background with data analytics to optimize proce
 *(Coming soon: Data analysis and dashboards tailored for pharma)*
 
 ---
-### 📫 **Connect with me: ** www.linkedin.com/in/jimm-aragon-mosqueda 
+### 📫 * **Connect with me:** www.linkedin.com/in/jimm-aragon-mosqueda 
 ### Hi there 👋
